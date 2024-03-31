@@ -11,7 +11,7 @@ readme = "README.md"
 
 [dependencies]
 egui = { version = "0.13", default-features = false, features = ["single_threaded"] }
-winit = { git = "https://github.com/josh65536/winit", default-features = false }
+winit = { git = "https://github.com/hayashi-stl/winit", default-features = false }
 copypasta = { version = "0.7", optional = true }
 webbrowser = { version = "0.5", optional = true }
 
